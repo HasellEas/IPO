@@ -1,0 +1,2 @@
+mama = {"Мама"}
+del mama
